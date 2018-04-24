@@ -1,0 +1,20 @@
+{"_id":{"$oid":"5ace44ba2348de22d80dd6f7"},"customerID":"4784453344","pizzaName":"work","totalPrice":9.99,"quantity":1,"date":{"$date":"2018-04-11T17:24:10.782Z"}}
+{"_id":{"$oid":"5ace44ba2348de22d80dd6f8"},"customerID":"4784453344","pizzaName":"meat","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-11T17:24:10.782Z"}}
+{"_id":{"$oid":"5ace452a2348de22d80dd6f9"},"customerID":"4784453344","pizzaName":"work","totalPrice":9.99,"quantity":1,"date":{"$date":"2018-04-11T17:26:02.078Z"}}
+{"_id":{"$oid":"5ace452a2348de22d80dd6fa"},"customerID":"4784453344","pizzaName":"meat","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-11T17:26:02.078Z"}}
+{"_id":{"$oid":"5ace45552348de22d80dd6fb"},"customerID":"4784453344","pizzaName":"work","totalPrice":9.99,"quantity":1,"date":{"$date":"2018-04-11T17:26:45.495Z"}}
+{"_id":{"$oid":"5ace45552348de22d80dd6fc"},"customerID":"4784453344","pizzaName":"meat","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-11T17:26:45.495Z"}}
+{"_id":{"$oid":"5ace457d2348de22d80dd6fd"},"customerID":"4784453344","pizzaName":"work","totalPrice":9.99,"quantity":1,"date":{"$date":"2018-04-11T17:27:25.698Z"}}
+{"_id":{"$oid":"5ace457d2348de22d80dd6fe"},"customerID":"4784453344","pizzaName":"meat","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-11T17:27:25.698Z"}}
+{"_id":{"$oid":"5aceb8da98d9f220f8755508"},"customerID":"4784453344","pizzaName":"work","totalPrice":19.98,"quantity":2,"date":{"$date":"2018-04-12T01:39:38.895Z"}}
+{"_id":{"$oid":"5ad80f37626f5804f80d974a"},"customerID":"4784453344","pizzaName":"meat","totalPrice":6.99,"quantity":1,"date":{"$date":"2018-04-19T03:38:31.308Z"}}
+{"_id":{"$oid":"5ad80f37626f5804f80d974b"},"customerID":"4784453344","pizzaName":"cheese","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-19T03:38:31.308Z"}}
+{"_id":{"$oid":"5ad80f37626f5804f80d974c"},"customerID":"4784453344","pizzaName":"hawaii chicken","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-19T03:38:31.308Z"}}
+{"_id":{"$oid":"5adb7faccd5d752d18162c9d"},"customerID":"4784453344","pizzaName":"work","totalPrice":19.98,"quantity":6,"date":{"$date":"2018-04-21T18:15:08.925Z"}}
+{"_id":{"$oid":"5adb7faccd5d752d18162c9f"},"customerID":"4784453344","pizzaName":"cheese","totalPrice":6.99,"quantity":1,"date":{"$date":"2018-04-21T18:15:08.925Z"}}
+{"_id":{"$oid":"5adb7fd5cd5d752d18162ca0"},"customerID":"4782312343","pizzaName":"work","totalPrice":19.98,"quantity":2,"date":{"$date":"2018-04-21T18:15:49.423Z"}}
+{"_id":{"$oid":"5adb7fd5cd5d752d18162ca1"},"customerID":"4782312343","pizzaName":"cheese","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-21T18:15:49.423Z"}}
+{"_id":{"$oid":"5adb7fd5cd5d752d18162ca2"},"customerID":"4782312343","pizzaName":"hawaii chicken","totalPrice":13.98,"quantity":2,"date":{"$date":"2018-04-21T18:15:49.423Z"}}
+{"_id":{"$oid":"5adb7fd5cd5d752d18162ca3"},"customerID":"4782312343","pizzaName":"veg ","totalPrice":17.98,"quantity":2,"date":{"$date":"2018-04-21T18:15:49.423Z"}}
+{"_id":{"$oid":"5adb7faccd5d752d18162c9e"},"customerID":"4784453344","pizzaName":"meat","totalPrice":20.97,"quantity":3,"date":{"$date":"2018-04-21T18:15:08.925Z"}}
+{"_id":{"$oid":"5ade503c7a5176223495d7f8"},"customerID":"4784453344","pizzaName":"cheese","totalPrice":20.97,"quantity":3,"date":{"$date":"2018-04-23T21:29:32.911Z"}}

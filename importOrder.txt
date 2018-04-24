@@ -1,0 +1,6 @@
+mongoimport --host localhost --port 27017 -u pizza1 -p pizza1 --db pizzadb --collection orders orders.json
+
+mongoimport --host localhost --port 27017 -u pizza1 -p pizza1 --db pizzadb --collection menu menuData.json
+
+
+mongoexport -u pizza1 -p pizza1 --db pizzadb --collection admin --out admin.json
